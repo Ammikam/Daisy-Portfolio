@@ -12,7 +12,7 @@ const Experience = () => {
 
   const experiences = [
     {
-      title: "Chief Technology Officer",
+      title: "Lead Sofware Developer",
       company: "Scales Technology Solutions",
       location: "On Site",
       period: "Oct 2024 - Current",
