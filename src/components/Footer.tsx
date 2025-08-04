@@ -63,7 +63,7 @@ const Footer = () => {
                 Daisi Odawa
               </h3>
               <p className="text-muted-foreground leading-relaxed max-w-md">
-                Senior Fullstack Software & DevOps Engineer passionate about
+                Senior Fullstack Software Engineer passionate about
                 building scalable, innovative solutions that make a difference.
                 Specialized in React, Node.js, and modern cloud technologies.
               </p>

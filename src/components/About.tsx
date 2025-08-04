@@ -56,7 +56,7 @@ const About = () => {
               <p className="text-lg leading-relaxed text-muted-foreground">
                 Daisi is a multifaceted technology professional with{" "}
                 <span className="text-primary font-semibold">
-                  8+ years of experience
+                  5+ years of experience
                 </span>{" "}
                 She has a proven expertise in project management, software
                 development, Odoo customization, mobile solutions, and IoT
